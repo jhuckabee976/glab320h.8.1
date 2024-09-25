@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, #798189, #92adc7);
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: 'Arial', sans-serif;
+    color: black;
+  }
